@@ -12,9 +12,9 @@ Ektromart is a modern product listing/management web application developed with 
 - **API Integration:** Fetch additional products from an external API (dummyjson.com).
 - **Single Product View:** Dedicated route to view individual products fetched from the external API.
 - **SEO Optimization:** Ektromart includes SEO optimization with 
-    - meta tags for titles, descriptions, other meta tags
+    - meta tags for titles, descriptions, and Open Graph tags
     - use of semantic html tags appropriately
-    - use of sitemap configuration
+    - use of sitemap configuration and robots.txt
     improving visibility on search engines, site management, search engine crawling and indexing, overall user experience.
 - **Fast Loading:** Optimized for fast loading times, ensuring a smooth user experience.
 - **Responsiveness:** Optimized for all devices and users, ensuring a wide range of users and platforms and a smooth user experience.
